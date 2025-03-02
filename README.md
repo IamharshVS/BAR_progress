@@ -21,7 +21,7 @@ progress-bar-project/
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/IamharshVS/progress-bar-project.git
+   git clone https://github.com/IamharshVS/BAR_progress.git
    ```
 2. Navigate to the project folder:
    ```sh
